@@ -1511,3 +1511,4 @@ dac.unicamp.br
 unicamp.br
 upse.edu.ec
 ticollege.org
+csuchico.edu
