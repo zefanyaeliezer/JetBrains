@@ -212,7 +212,6 @@ californiacolleges.edu
 campus.mccd.edu
 case.edu
 cc.peralta.edu
-ccc.edu
 chemeketa.edu
 cit.edu
 clackamas.edu
@@ -397,7 +396,6 @@ student.annauniv.edu
 student.bccc.edu
 student.butte.edu
 student.carlalbert.edu
-student.ccc.edu
 student.centralia.edu
 student.cgcc.edu
 student.citruscollege.edu
