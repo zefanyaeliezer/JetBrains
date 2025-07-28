@@ -646,7 +646,6 @@ studenti.unisr.it
 uniroma1.it
 utech.edu.jm
 vtdi.edu.jm
-aabu.edu.jo
 ammanu.edu.jo
 bau.edu.jo
 eng.just.edu.jo
