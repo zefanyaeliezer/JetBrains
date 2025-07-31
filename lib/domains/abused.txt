@@ -67,7 +67,6 @@ my.centennialcollege.ca
 share.epsb.ca
 slc.ubc.ca
 unb.ca
-uregina.ca
 workschool.ca
 gapps.yrdsb.ca
 unilu.ac.cd
@@ -1515,3 +1514,5 @@ dharuma.edu.mv
 kag-erding.de
 sfcollege.edu
 utcancun.edu.mx
+alunos.estacio.br
+aluno.uniasselvi.com.br
