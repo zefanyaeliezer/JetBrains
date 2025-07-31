@@ -336,7 +336,6 @@ nacc.edu
 navarrocollege.edu
 ncc.edu
 nic.edu
-njit.edu
 nmjc.edu
 noc.edu
 northampton.edu
