@@ -1518,3 +1518,4 @@ aluno.uniasselvi.com.br
 uaeu.ac.ae
 uinjkt.ac.id
 edu.pa.senac.br
+vpt.edu.in
