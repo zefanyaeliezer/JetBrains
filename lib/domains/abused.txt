@@ -1517,3 +1517,4 @@ alunos.estacio.br
 aluno.uniasselvi.com.br
 uaeu.ac.ae
 uinjkt.ac.id
+edu.pa.senac.br

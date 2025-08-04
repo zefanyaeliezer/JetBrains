@@ -800,3 +800,5 @@ utxun.lv
 lems.edu.ph
 asu.edu.ph
 takushoku-u.ac.jp
+eksu.edu.ng
+ssis.ac.in
