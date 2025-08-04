@@ -1515,3 +1515,4 @@ sfcollege.edu
 utcancun.edu.mx
 alunos.estacio.br
 aluno.uniasselvi.com.br
+uaeu.ac.ae
