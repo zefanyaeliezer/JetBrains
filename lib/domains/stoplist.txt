@@ -802,3 +802,5 @@ asu.edu.ph
 takushoku-u.ac.jp
 eksu.edu.ng
 ssis.ac.in
+pcjy.school
+aoiu.edu.ci
