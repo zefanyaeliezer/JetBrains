@@ -1519,3 +1519,7 @@ uaeu.ac.ae
 uinjkt.ac.id
 edu.pa.senac.br
 vpt.edu.in
+sfsu.edu
+staff.kaywon.ac.kr
+uqconnect.edu.au
+morningside.edu
