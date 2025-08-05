@@ -807,3 +807,4 @@ aoiu.edu.ci
 correo.ux.edu.mx
 caa.columbia.edu
 athenscollege.edu.gr
+ecas.cl
