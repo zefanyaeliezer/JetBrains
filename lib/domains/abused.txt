@@ -1525,3 +1525,5 @@ uqconnect.edu.au
 morningside.edu
 faculdadecdl.edu.br
 akesu.org
+st.dima.ac.kr
+sunmoon.ac.kr
