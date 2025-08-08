@@ -808,3 +808,5 @@ correo.ux.edu.mx
 caa.columbia.edu
 athenscollege.edu.gr
 ecas.cl
+utmail.utexas.edu
+uca.edu.kg
