@@ -333,6 +333,7 @@ alumni.vcu.edu
 alumni.virginia.edu
 alumni365.dmu.ac.uk
 alumni.undip.ac.id
+alumni.utoronto.ca
 office.undip.ac.id
 mdu.edu.rs
 nfs.edu.rs
