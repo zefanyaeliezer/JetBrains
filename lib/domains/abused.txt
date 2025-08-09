@@ -1533,3 +1533,4 @@ ecampus.ut.ac.id
 qaliobia4.moe.edu.eg
 iua.ci
 unitec.edu
+cbu.edu.tr
