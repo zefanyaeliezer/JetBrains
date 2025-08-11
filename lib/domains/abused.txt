@@ -1536,3 +1536,4 @@ unitec.edu
 cbu.edu.tr
 student.sru.ac.th
 castrocarazo.ac.cr
+tcusd.net
