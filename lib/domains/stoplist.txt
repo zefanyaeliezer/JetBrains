@@ -819,3 +819,4 @@ stu.maol.fr
 uqz.ch
 horizon.auvk.ch
 ist.edu.pk
+horizon.ovan.in
