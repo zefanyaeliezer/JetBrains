@@ -1546,3 +1546,4 @@ uc-bcf.edu.ph
 bau.edu.lb
 ucsf.edu.ar
 stud.rau.ro
+ucacue.edu.ec
