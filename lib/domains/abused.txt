@@ -1547,3 +1547,5 @@ bau.edu.lb
 ucsf.edu.ar
 stud.rau.ro
 ucacue.edu.ec
+ibsu.edu.ge
+asu.edu.jo
