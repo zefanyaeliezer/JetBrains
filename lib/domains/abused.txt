@@ -598,7 +598,7 @@ mercubuana.ac.id
 mhs.its.ac.id
 my.stmikbumigora.ac.id
 office.itb.ac.id
-office.ui.ac.id
+ui.ac.id
 queens.ac.id
 sekolahnasima.sch.id
 smakstmariamalang.sch.id
