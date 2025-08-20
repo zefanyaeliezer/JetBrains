@@ -830,3 +830,4 @@ gsuite.bu.edu
 kelloggalumni.northwestern.edu
 reb.ac.rw
 alumni.depaul.edu
+senacminas.edu.br
