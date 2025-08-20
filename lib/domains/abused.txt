@@ -1549,3 +1549,4 @@ ibsu.edu.ge
 asu.edu.jo
 bluecc.edu
 tvcc.edu
+usm.ac.id
